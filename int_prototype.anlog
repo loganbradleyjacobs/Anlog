@@ -1,0 +1,49 @@
+// comment
+
+int a = 9
+// assigns int type variable a to 9
+
+print(a)
+// prints int value of a to the terminal
+// > 9
+
+print(b)
+// prints char value of b to the terminal
+// > 9
+
+print(c)
+// prints float value of c to the terminal
+// > 0.25
+
+int d = 2
+d = d + a
+// the following value will be in d:
+// adds the int value of d to the int value of a
+
+print(d)
+// prints int value of d to the terminal
+// > 11
+
+d = d - a
+// the following value will be in d:
+// subtracts the int value of a from the int value of d
+
+print(d)
+// prints int value of d to the terminal
+// > 9
+
+d = d * a
+// the following value will be in d:
+// multiplies the int values of d and a
+
+print(d)
+// prints int value of d to the terminal
+// > 18
+
+d = d / a
+// the following value will be in d:
+// divides the int values of d and a
+
+print(d)
+// prints int value of d to the terminal
+// > 9

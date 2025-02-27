@@ -1,0 +1,5 @@
+char b = 'b'
+// assigns char type variable b to 'b'
+
+float c = 0.25
+// assigns float type variable c to 0.25
